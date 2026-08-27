@@ -3,7 +3,7 @@ name: API Tests and Deploy Allure Report
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
