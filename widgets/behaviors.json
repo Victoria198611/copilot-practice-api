@@ -1,0 +1,1 @@
+{"total":4,"items":[{"uid":"f4c1b6e57ae60586ac2d3c89414fc316","name":"Weather API Tests","statistic":{"failed":0,"broken":0,"skipped":1,"passed":0,"unknown":0,"total":1}},{"uid":"8c4f4f3b707a752a590405f3b7ef8d22","name":"Weather API Negative Tests","statistic":{"failed":0,"broken":0,"skipped":1,"passed":0,"unknown":0,"total":1}}]}
